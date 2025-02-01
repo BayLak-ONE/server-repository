@@ -8,7 +8,6 @@ ByetHost: byet.host // PHP, MySQL, HTML, CSS, JavaScript
 FreeHostingNoAds: freehostingnoads.net // PHP, MySQL, HTML, CSS, JavaScript
 HyperPHP: hyperphp.com // PHP, MySQL, HTML, CSS, JavaScript
 X10Hosting: x10hosting.com // PHP, MySQL, HTML, CSS, JavaScript
-InfinityFree: infinityfree.net // PHP, MySQL, HTML, CSS, JavaScript
 GitHub Pages: github.com // HTML, CSS, JavaScript
 Netlify: netlify.com // HTML, CSS, JavaScript
 Vercel: vercel.com // HTML, CSS, JavaScript, Node.js
@@ -18,7 +17,63 @@ Surge: surge.sh // HTML, CSS, JavaScript
 Replit: replit.com // HTML, CSS, JavaScript, Python, Node.js, Ruby, PHP
 Fly.io: fly.io // HTML, CSS, JavaScript, Ruby, Python, Go
 Firebase Hosting: firebase.google.com // HTML, CSS, JavaScript
-
+GitLab Pages: gitlab.com // HTML, CSS, JavaScript
+Cloud 66: cloud66.com // HTML, CSS, JavaScript, Ruby, Python, Node.js
+Zyro: zyro.com // HTML, CSS, JavaScript
+Uphold: uphold.com // HTML, CSS, JavaScript
+WordPress.com: wordpress.com // PHP, MySQL, HTML, CSS, JavaScript
+Weebly: weebly.com // HTML, CSS, JavaScript
+Wix: wix.com // HTML, CSS, JavaScript
+Jimdo: jimdo.com // HTML, CSS, JavaScript
+Strikingly: strikingly.com // HTML, CSS, JavaScript
+Tilda: tilda.cc // HTML, CSS, JavaScript
+Google Sites: sites.google.com // HTML, CSS, JavaScript
+Zoho Sites: zoho.com // HTML, CSS, JavaScript
+Webnode: webnode.com // HTML, CSS, JavaScript
+Webflow: webflow.com // HTML, CSS, JavaScript
+Carrd: carrd.co // HTML, CSS, JavaScript
+Google Firebase: firebase.google.com // HTML, CSS, JavaScript
+Bravenet: bravenet.com // HTML, CSS, JavaScript
+Freenom: freenom.com // HTML, CSS, JavaScript
+SiteGround: siteground.com // PHP, MySQL, HTML, CSS, JavaScript
+WordPress.com: wordpress.com // PHP, HTML, CSS, JavaScript
+Neocities: neocities.org // HTML, CSS, JavaScript
+CleverReach: cleverreach.com // HTML, CSS, JavaScript
+Pinegrow: pinegrow.com // HTML, CSS, JavaScript
+Staticfile: staticfile.org // HTML, CSS, JavaScript
+HostFree: hostfree.com // PHP, MySQL, HTML, CSS, JavaScript
+FreeWebHostingArea: freewebhostingarea.com // PHP, MySQL, HTML, CSS, JavaScript
+Ucraft: ucraft.com // HTML, CSS, JavaScript
+Vercel: vercel.com // HTML, CSS, JavaScript
+Replit: replit.com // HTML, CSS, JavaScript, Python, Node.js
+Freehosting.com: freehosting.com // PHP, MySQL, HTML, CSS, JavaScript
+WebFreeHosting: webfreehosting.net // PHP, MySQL, HTML, CSS, JavaScript
+ProFreeHost: profreehost.com // PHP, MySQL, HTML, CSS, JavaScript
+GoogieHost: googiehost.com // PHP, MySQL, HTML, CSS, JavaScript
+Hostinger: hostinger.com // PHP, MySQL, HTML, CSS, JavaScript
+FreehostingNoAds: freehostingnoads.net // PHP, MySQL, HTML, CSS, JavaScript
+Bravenet: bravenet.com // PHP, MySQL, HTML, CSS, JavaScript
+Google Cloud: cloud.google.com // HTML, CSS, JavaScript, Node.js
+Heroku: heroku.com // Ruby, Python, PHP, Java, Node.js
+Glitch: glitch.com // HTML, CSS, JavaScript, Node.js
+Firebase Hosting: firebase.google.com // HTML, CSS, JavaScript, Firebase
+StackBlitz: stackblitz.com // HTML, CSS, JavaScript, Angular, React
+CodeSandbox: codesandbox.io // HTML, CSS, JavaScript, React, Vue
+FreeHosting.com: freehosting.com // PHP, MySQL, HTML, CSS, JavaScript
+Free Web Hosting Area: freewebhostingarea.com // PHP, MySQL, HTML, CSS, JavaScript
+WebStarts: webstarts.com // HTML, CSS, JavaScript
+PageXL: pagexl.com // HTML, CSS, JavaScript
+FreeHosting: freehosting.com // PHP, MySQL, HTML, CSS, JavaScript
+Hostinger Free Hosting: hostinger.com // PHP, MySQL, HTML, CSS, JavaScript
+Google Firebase Hosting: firebase.google.com // HTML, CSS, JavaScript, Firebase
+Hugo: gohugo.io // HTML, CSS, JavaScript, Hugo
+Jekyll: jekyllrb.com // HTML, CSS, JavaScript, Ruby
+Pelican: getpelican.com // HTML, CSS, JavaScript, Python
+Grav: getgrav.org // HTML, CSS, JavaScript, PHP
+Blocs: blocs.io // HTML, CSS, JavaScript
+FastComet: fastcomet.com // PHP, MySQL, HTML, CSS, JavaScript
+AccuWeb Hosting: accuwebhosting.com // PHP, MySQL, HTML, CSS, JavaScript
+FreeHostia: freehostia.com // PHP, MySQL, HTML, CSS, JavaScript
 ===================================== DDOS Map =====================================
 Digital Attack Map: https://www.digitalattackmap.com/
 DDoS Map: https://ddosmap.com/
