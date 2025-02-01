@@ -1,10 +1,10 @@
-1(( domain free
+===================================== Domain free =====================================
 
-2(( ddos map
+===================================== DDOS Map =====================================
 Digital Attack Map: https://www.digitalattackmap.com/
 DDoS Map: https://ddosmap.com/
 Arbor Networks Atlas: https://www.arbornetworks.com/
 Kaspersky DDoS Threat: https://cybermap.kaspersky.com/
 Fortiguard: https://threatmap.fortiguard.com/
 Checkpoint: https://threatmap.checkpoint.com/
-3(( ddos attck
+===================================== DDOS Attck =====================================
