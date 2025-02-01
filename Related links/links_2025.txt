@@ -1,21 +1,13 @@
-https://51.159.195.78/
-http://51.159.195.2/
-https://51.159.195.4/
-https://51.159.195.5/
-https://51.159.195.7/ui/
-http://51.159.195.8/
-http://51.159.195.15/
-http://51.159.195.18/
-https://51.159.195.20/
-https://51.159.195.21/
-http://51.159.195.24/
-http://51.159.195.25/
-http://51.159.195.32/index.html
-https://51.159.195.42/login
-http://51.159.195.44/
-http://51.159.195.50/
-https://51.159.195.52/
-http://51.159.195.54/
-http://51.159.195.55/
-http://51.159.195.56/
-
+1-(( ddos map
+Digital Attack Map: https://www.digitalattackmap.com/
+DDoS Map: https://ddosmap.com/
+Cloudflare Radar: https://www.cloudflare.com/radar/
+Arbor Networks Atlas: https://www.arbornetworks.com/
+Kaspersky DDoS Threat: https://cybermap.kaspersky.com/
+Fortiguard: https://threatmap.fortiguard.com/
+OVH DDoS Monitoring: https://www.ovh.com/us/dedicated-servers/ddos/
+Prolexic by Akamai: https://www.akamai.com/us/en/products/ddos-protection/prolexic-ppc/
+Packet Clearing House (PCH) DDoS Resources: https://www.pch.net/
+Radware DDoS Insights: https://www.radware.com/insights/
+QRator Labs: https://qrator.net/en/
+Checkpoint: https://threatmap.checkpoint.com/
