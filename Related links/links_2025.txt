@@ -1,4 +1,23 @@
 ===================================== Domain free =====================================
+===================================== Wepsite free =====================================
+InfinityFree: infinityfree.net // PHP, MySQL, HTML, CSS, JavaScript
+000WebHost: 000webhost.com // PHP, MySQL, HTML, CSS, JavaScript
+Freehostia: freehostia.com // PHP, MySQL, HTML, CSS, JavaScript
+AwardSpace: awardspace.com // PHP, MySQL, HTML, CSS, JavaScript
+ByetHost: byet.host // PHP, MySQL, HTML, CSS, JavaScript
+FreeHostingNoAds: freehostingnoads.net // PHP, MySQL, HTML, CSS, JavaScript
+HyperPHP: hyperphp.com // PHP, MySQL, HTML, CSS, JavaScript
+X10Hosting: x10hosting.com // PHP, MySQL, HTML, CSS, JavaScript
+InfinityFree: infinityfree.net // PHP, MySQL, HTML, CSS, JavaScript
+GitHub Pages: github.com // HTML, CSS, JavaScript
+Netlify: netlify.com // HTML, CSS, JavaScript
+Vercel: vercel.com // HTML, CSS, JavaScript, Node.js
+Cloudflare Pages: pages.cloudflare.com // HTML, CSS, JavaScript
+Render: render.com // HTML, CSS, JavaScript, Node.js
+Surge: surge.sh // HTML, CSS, JavaScript
+Replit: replit.com // HTML, CSS, JavaScript, Python, Node.js, Ruby, PHP
+Fly.io: fly.io // HTML, CSS, JavaScript, Ruby, Python, Go
+Firebase Hosting: firebase.google.com // HTML, CSS, JavaScript
 
 ===================================== DDOS Map =====================================
 Digital Attack Map: https://www.digitalattackmap.com/
