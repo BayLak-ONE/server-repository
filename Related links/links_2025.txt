@@ -1,13 +1,8 @@
-1-(( ddos map
+1(( ddos map
 Digital Attack Map: https://www.digitalattackmap.com/
 DDoS Map: https://ddosmap.com/
-Cloudflare Radar: https://www.cloudflare.com/radar/
 Arbor Networks Atlas: https://www.arbornetworks.com/
 Kaspersky DDoS Threat: https://cybermap.kaspersky.com/
 Fortiguard: https://threatmap.fortiguard.com/
-OVH DDoS Monitoring: https://www.ovh.com/us/dedicated-servers/ddos/
-Prolexic by Akamai: https://www.akamai.com/us/en/products/ddos-protection/prolexic-ppc/
-Packet Clearing House (PCH) DDoS Resources: https://www.pch.net/
-Radware DDoS Insights: https://www.radware.com/insights/
-QRator Labs: https://qrator.net/en/
 Checkpoint: https://threatmap.checkpoint.com/
+2(( 
