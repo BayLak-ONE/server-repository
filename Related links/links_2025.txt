@@ -1,4 +1,43 @@
 ===================================== Domain free =====================================
+Dynu: dynu.com
+DuckDNS: duckdns.org
+FreeDNS: freedns.afraid.org
+ChangeIP: changeip.com
+No-IP: noip.com
+Afraid.org: afraid.org
+DNS-O-Matic: dnsomatic.com
+YDNS: ydns.eu
+GetMyDNS: getmydns.com
+PandaDNS: pandadns.com
+MyDNS: mydns.com
+TZO: tzo.com
+DDNS.me: ddns.me
+DNSDynamic: dnsdynamic.org
+Servercow: servercow.de
+ZoneEdit: zoneedit.com
+FreeDDNS: freeddns.com
+DNSPark: dnspark.com
+No-IP Free: noip.com/free
+DNS2Go: dns2go.com
+Cloudflare: cloudflare.com
+DynDNS Free: dyndnsfree.com
+MyIP: myip.com
+MSN DNS: msndns.com
+SafeDNS: safedns.com
+TinyDNS: tinydns.com
+DDNS Service: ddnsservice.com
+FreeDNS Solutions: freedns-solutions.com
+Freenom: freenom.com
+OpenDNS: opendns.com
+BackupDNS: backupdns.com
+DigitalOcean DNS: digitalocean.com
+QuickDNS: quickdns.com
+WebDNS: webdns.com
+VoxDNS: voxdns.com
+DNSFire: dnsfire.com
+CloudDNS: clouddns.com
+Hurricane Electric: he.net
+FreeDNS (DynDNS): dyndns.org
 ===================================== Wepsite free =====================================
 InfinityFree: infinityfree.net // PHP, MySQL, HTML, CSS, JavaScript
 000WebHost: 000webhost.com // PHP, MySQL, HTML, CSS, JavaScript
