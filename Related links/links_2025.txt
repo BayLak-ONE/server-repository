@@ -1,3 +1,63 @@
+================================= Tools Text online ===================================
+TextMechanic: https://textmechanic.com/
+Duplichecker: https://www.duplichecker.com/
+Remove Duplicate Lines: https://www.remove-doubles.com/
+Online Duplicate Remover: https://www.textfixer.com/tools/remove-duplicates.php
+Zoho Writer: https://www.zoho.com/writer/
+Prepostseo Duplicate Checker: https://www.prepostseo.com/duplicate-text-checker
+TextCleaner: https://www.textcleaner.com/
+TextFixer: https://www.textfixer.com/
+TextTools: https://www.texttools.net/
+Uniqueness Checker: https://www.uniquenesschecker.com/
+Duplicate Text Finder: https://www.duplicatetextfinder.com/
+Clean Text: https://www.cleancopy.com/
+Quick Text Editor: https://www.quicktexteditor.com/
+Dedupe: https://www.dedupe.io/
+Remove Duplicate Text: https://www.removeduplicatesnow.com/
+Textparser: https://www.textparser.com/
+Cleanlist Checker: https://www.cleanlistchecker.com/
+TextParserNet: https://www.textparser.net/
+TextToolsPro: https://www.texttoolspro.com/
+DedupeChecker: https://www.dedupechecker.com/
+SimpleTextTools: https://www.simplifiedtexttools.com/
+TextCrawler: https://www.textcrawler.com/
+TextTools24: https://www.texttools24.com/
+TextCleanUp: https://www.textcleanup.com/
+CleanTextTool: https://www.cleantexttool.com/
+TextDuper: https://www.textduper.com/
+TextFormatter: https://www.textformatter.com/
+TextDuplication Remover: https://www.textduplicatesremover.com/
+UniqueCheck: https://www.uniquecheck.com/
+TextToolsOnline: https://www.texttoolsonline.com/
+TextCleanerPro: https://www.textcleanerpro.com/
+DuplicateTextRemover: https://www.duplicatetextremover.com/
+CleanTextOnline: https://www.cleantextonline.com/
+TextStripper: https://www.textstripper.com/
+DuplicateTextChecker: https://www.duplicatetextchecker.com/
+RemoveDuplicatesOnline: https://www.removeduplicatesonline.com/
+CleanUpText: https://www.cleanuptext.com/
+TextFixerOnline: https://www.textfixeronline.com/
+TextPurge: https://www.textpurge.com/
+TextDedup: https://www.textdedup.com/
+DupSearch: https://www.dupsearch.com/
+TextMatcher: https://www.textmatcher.com/
+DuplicateTextFinder: https://www.duplicatetextfinder.com/
+TextCleanerNow: https://www.textcleanernow.com/
+TextDuplicateRemover: https://www.textduplicateremover.com/
+DuplicateLineRemover: https://www.duplicateline.com/
+TextDuplicationClean: https://www.textduplicationclean.com/
+DuplicateLineCleaner: https://www.duplicatelinecleaner.com/
+TextEditorTools: https://www.texteditortools.com/
+TextSimplifier: https://www.textsimplifier.com/
+TextDedupeOnline: https://www.textdedupeonline.com/
+CleanTextTools: https://www.cleantexttools.com/
+TextPurgeOnline: https://www.textpurgeonline.com/
+NoDupesTool: https://www.nodupestool.com/
+TextNoDuplicates: https://www.textnoduplicates.com/
+TextPurgeTool: https://www.textpurgetool.com/
+LineCleaner: https://www.linecleaner.com/
+TextRemoveDuplicates: https://www.textremoveduplicates.com/
+Dedupelist: https://dedupelist.com/
 ===================================== Domain free =====================================
 Dynu: dynu.com
 DuckDNS: duckdns.org
@@ -120,4 +180,3 @@ Arbor Networks Atlas: https://www.arbornetworks.com/
 Kaspersky DDoS Threat: https://cybermap.kaspersky.com/
 Fortiguard: https://threatmap.fortiguard.com/
 Checkpoint: https://threatmap.checkpoint.com/
-===================================== DDOS Attck =====================================
