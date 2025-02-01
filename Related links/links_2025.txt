@@ -1,3 +1,6 @@
+================================= Top get information you =============================
+Deviceinfo: https://www.deviceinfo.me/
+Browserleaks: https://browserleaks.com/#more
 ================================= Tools Text online ===================================
 TextMechanic: https://textmechanic.com/
 Duplichecker: https://www.duplichecker.com/
