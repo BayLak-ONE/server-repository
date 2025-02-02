@@ -235,6 +235,14 @@ Blocs: blocs.io // HTML, CSS, JavaScript
 FastComet: fastcomet.com // PHP, MySQL, HTML, CSS, JavaScript
 AccuWeb Hosting: accuwebhosting.com // PHP, MySQL, HTML, CSS, JavaScript
 FreeHostia: freehostia.com // PHP, MySQL, HTML, CSS, JavaScript
+=================================< Localhost online >=================================
+Ngrok: https://ngrok.com/
+LocalTonet: https://localtonet.com/
+Serveo: https://serveo.net
+PageKite: https://pagekite.net/
+IPv6 Tunnel Broker: https://tunnelbroker.net/
+FRP (Fast Reverse Proxy): https://github.com/fatedier/frp
+ZeroTier: https://www.zerotier.com/
 =====================================< DDOS Map >=====================================
 Digital Attack Map: https://www.digitalattackmap.com/
 DDoS Map: https://ddosmap.com/
