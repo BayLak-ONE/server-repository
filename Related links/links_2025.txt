@@ -41,6 +41,7 @@ Ping.eu: https://ping.eu
 YouGetSignal: https://www.yougetsignal.com/tools/open-ports
 Test port: https://ping.eu/port-chk/
 Pingdom: https://www.pingdom.com
+NetworkAppers Open Port Checker: https://networkappers.com/tools/open-port-checker
 ====================================== Port attacker ==================================
 Pentest Tools: https://pentest-tools.com/network-vulnerability-scanning/port-scanner-online-nmap
 HackerTarget's Nmap Online Port Scanner: https://hackertarget.com/nmap-online-port-scanner/
