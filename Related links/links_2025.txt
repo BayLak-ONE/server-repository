@@ -59,6 +59,7 @@ IPFingerprints Online Port Scanner: https://www.ipfingerprints.com/portscan.php
 =================================< Top get information you >=============================
 Device info: https://www.deviceinfo.me/
 Browser leaks: https://browserleaks.com/#more
+IP leaks: https://ipleak.net/
 =================================< Tools Text online >===================================
 Text Mechanic: https://textmechanic.com/
 Duplichecker: https://www.duplichecker.com/
