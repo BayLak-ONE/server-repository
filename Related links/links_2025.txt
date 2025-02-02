@@ -34,6 +34,13 @@
 ========================================< Get myip >=====================================
 Whatis my ip address: https://whatismyipaddress.com/
 Whats my ip: https://www.whatsmyip.org/ip-geo-location/
+==================================< Get myip for program >===============================
+Icanhazip: https://icanhazip.com/
+Icanhazipv4: https://ipv4.icanhazip.com/
+Icanhazipv6: https://ipv6.icanhazip.com/
+ifconfig: https://ifconfig.me/ip
+ifconfig Additional data: https://ifconfig.me/all
+
 ========================================< Port Scan >====================================
 PortChecker: https://www.portchecker.co
 CanYouSeeMe: https://www.canyouseeme.org
