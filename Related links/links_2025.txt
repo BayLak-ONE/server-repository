@@ -242,7 +242,11 @@ Serveo: https://serveo.net
 PageKite: https://pagekite.net/
 IPv6 Tunnel Broker: https://tunnelbroker.net/
 FRP (Fast Reverse Proxy): https://github.com/fatedier/frp
-ZeroTier: https://www.zerotier.com/
+Remote: https://remote.it/
+Rport: https://rport.io/
+Freenet: https://www.hyphanet.org/index.html
+I2P (Invisible Internet Project): https://geti2p.net/
+MeshCentral: https://meshcentral.com/
 =====================================< DDOS Map >=====================================
 Digital Attack Map: https://www.digitalattackmap.com/
 DDoS Map: https://ddosmap.com/
