@@ -46,14 +46,22 @@ Wtfismyip: https://wtfismyip.com/text
 Ipify IPv4 and IPv6: https://api64.ipify.org/
 ipify IPv4: https://api.ipify.org/
 =======================================< Proxy Wep >=====================================
+CroxyProxy: https://www.croxyproxy.com/
 KProxy: https://www.kproxy.com
 ProxySite: https://www.proxysite.com
 Whoer.net: https://whoer.net
 4everproxy: https://www.4everproxy.com
 FreeProxy: https://www.freeproxy.io
-Zalmos: https://www.zalmos.com
-Proxify: https://www.proxify.com
-
+======================================< Proxy List >=====================================
+Proxy List: https://proxy-list.org/english/index.php
+Proxy List 2: https://www.proxy-list.download/SOCKS5
+Proxy Nova: https://www.proxynova.com/proxy-server-list/country-ca/
+Proxy db: https://www.proxydb.net/
+Proxy servers: https://proxyservers.pro/
+Proxy hide: https://hide.mn/en/proxy-list/
+Search in proxy: https://www.proxylistplus.com/listing/myprivateproxy/
+Free Us Proxy List: https://www.us-proxy.org/
+Proxy List Spys: https://spys.one/en/
 ========================================< Port Scan >====================================
 PortChecker: https://www.portchecker.co
 CanYouSeeMe: https://www.canyouseeme.org
