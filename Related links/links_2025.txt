@@ -34,6 +34,7 @@
 ========================================< Get myip >=====================================
 Whatis my ip address: https://whatismyipaddress.com/
 Whats my ip: https://www.whatsmyip.org/ip-geo-location/
+Whoer: https://whoer.net/
 ==================================< Get myip for program >===============================
 Icanhazip: https://icanhazip.com/
 Icanhazipv4: https://ipv4.icanhazip.com/
@@ -44,6 +45,15 @@ Checkip amazonaws: https://checkip.amazonaws.com/
 Wtfismyip: https://wtfismyip.com/text
 Ipify IPv4 and IPv6: https://api64.ipify.org/
 ipify IPv4: https://api.ipify.org/
+=======================================< Proxy Wep >=====================================
+KProxy: https://www.kproxy.com
+ProxySite: https://www.proxysite.com
+Whoer.net: https://whoer.net
+4everproxy: https://www.4everproxy.com
+FreeProxy: https://www.freeproxy.io
+Zalmos: https://www.zalmos.com
+Proxify: https://www.proxify.com
+
 ========================================< Port Scan >====================================
 PortChecker: https://www.portchecker.co
 CanYouSeeMe: https://www.canyouseeme.org
